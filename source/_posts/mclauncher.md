@@ -1,7 +1,11 @@
 ---
 title: MC官方启动器无法下载
 date: 2023-02-20
-tags:
+categories:
+- 问题
+tags: 
+- 微软
+- Minecraft
 ---
 # MC官方启动器无法下载
 

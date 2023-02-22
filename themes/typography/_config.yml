@@ -23,3 +23,8 @@ showTags: true
 
 # Color scheme
 themeStyle: dark #light or dark
+
+menu:
+ 首页: /
+ 归档: /archives
+ 标签: /tags
