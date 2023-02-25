@@ -1,5 +1,5 @@
-$backgroundColor: #ffffff !default;
-$foregroundColor: #2e405b !default;
+$backgroundColor: #2e5b41 !default;
+$foregroundColor: #ffffff !default;
 $fontList: "Verdana","Source Sans Pro", "Roboto", "Helvetica", "Helvetica Neue",
   "Source Han Sans SC", "Source Han Sans TC", "PingFang SC", "PingFang HK",
   "PingFang TC", sans-serif !default;
@@ -70,7 +70,7 @@ h6 {
 
 body {
   font-size: 18px;
-  line-height: 1.5em;
+  line-height: 2.5em;
 
   @if lightness($backgroundColor) >50 {
     background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACFJREFUeNpiZGBg4GegAsBlCD8TqSYNQg2Mo6FEBAAIMACdPABtrSW/IQAAAABJRU5ErkJggg==");

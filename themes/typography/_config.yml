@@ -6,7 +6,7 @@ twitter: #username
 rss: atom.xml
 weibo: #username/id
 instagram: #username
-github: rmtdi
+github: Rmtdi
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
@@ -22,7 +22,7 @@ showCategories: true
 showTags: true
 
 # Color scheme
-themeStyle: dark #light or dark
+themeStyle: light #light or dark
 
 menu:
  首页: /
