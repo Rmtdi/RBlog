@@ -1,4 +1,4 @@
-title_primary: "元洛の记事本" # the bigger text
+title_primary: "元洛の記事本" # the bigger text
 title_secondary: "Rmtdi's Notebook" # the smaller text
 keywords: "blog"
 
@@ -25,6 +25,6 @@ showTags: true
 themeStyle: light #light or dark
 
 menu:
- 首页: /
- 归档: /archives
- 标签: /tags
+ 扉页: /
+ 目录: /archives
+ 书签: /tags
