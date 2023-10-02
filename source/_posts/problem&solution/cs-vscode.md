@@ -1,7 +1,7 @@
 ---
 title: 用VSCode写C#程序
 categories:
-  - 编程
+  - 问题与解决
 tags:
   - VSCode
   - C#

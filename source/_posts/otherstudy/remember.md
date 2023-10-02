@@ -3,8 +3,7 @@ title: 帮助记忆
 categories:
   - 学习
 tags:
-  - 基础
-  - git
+  - 规划
 date: 2023-05-12 21:19:44
 ---
    
