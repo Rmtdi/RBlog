@@ -1,5 +1,5 @@
 ---
-title: proot-chromium-vsc-sandbox
+title: PRoot容器因沙盒无法运行VSCode和Chromium的问题解决
 categories:
   - 问题与解决
 tags:
