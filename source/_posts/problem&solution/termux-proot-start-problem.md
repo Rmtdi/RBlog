@@ -1,5 +1,5 @@
 ---
-title: termux-proot-start-problem
+title: Termux Proot-distro xfce图形界面启动问题
 categories:
   - 问题与解决
 tags:
@@ -18,5 +18,7 @@ termux-proot的xfce桌面无法启动
 ## 解决
 
 解决方法忘了，总的来说，就是把显示端口从:0改成:1，之后问题就迎刃而解了。
+
+以及关于运行x11后没有声音的问题，只需要在开启服务之前，先打开Xserver XSDL就好了，这个看似轻松的问题整整困扰了我半年才解决（
 
 ## 参考
