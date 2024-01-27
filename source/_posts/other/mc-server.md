@@ -9,11 +9,13 @@ date: 2024-01-26 06:47:12
 
 ## 欢迎～
 
-在开头先科普下，mc有众多版本，例如`Java版`，`基岩版`，其中Java版只能在pc平台方便的游玩，所以在微软收购MOJANG AB之后，为了在自家Xbox和PS，安卓和iOS等平台，推出了用C++写的，适配多平台的`基岩版`，跑在pc上的基岩版mc我们一般叫它MCPE，而运行在移动端叫MCBE。
+在开头先科普下，mc有众多版本，例如`Java版`，`基岩版`，其中Java版只能在pc平台方便的游玩，所以在微软收购MOJANG AB之后，为了在自家Xbox和PS，安卓和iOS等平台，推出了用C++写的，适配多平台的`基岩版`，跑在pc上的基岩版mc我们一般叫它MCBE，而运行在移动端叫MCPE。
 
 总而言之，`我推荐购买微软正版`，在很久之前JAVA版和基岩版就在微软商店里捆绑售卖了，只用71就可以买的原价近200的MC。
 
-当然如果你不想买，这里也提供MCBE 1.20.5X的下载链接，点鸡即可下载[:chicken:](https://sdyueqian-my.sharepoint.cn/personal/admin_sdyueqian_partner_onmschina_cn/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E51%2E01%2FMinecraft%20PE%201%2E20%2E51%2E01%20v8a%2Eapk&parent=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E51%2E01)
+当然如果你不想买，这里也提供MCBE 1.20.5X的下载链接，点鸡即可下载[&u+1f424](https://sdyueqian-my.sharepoint.cn/personal/admin_sdyueqian_partner_onmschina_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E51%2E01&ga=1)
+
+(选择 v8a去音乐包版本即可)
 
 # 帐号
 
