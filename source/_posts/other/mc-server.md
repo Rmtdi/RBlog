@@ -13,9 +13,11 @@ date: 2024-01-26 06:47:12
 
 总而言之，`我推荐购买微软正版`，在很久之前JAVA版和基岩版就在微软商店里捆绑售卖了，只用71就可以买的原价近200的MC。
 
-当然如果你不想买，这里也提供MCBE 1.20.5X的下载链接，点鸡即可下载[&u+1f424](https://sdyueqian-my.sharepoint.cn/personal/admin_sdyueqian_partner_onmschina_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E51%2E01&ga=1)
+当然如果你不想买，这里也提供MCBE 1.20.5X的下载链接，点鸡即可下载[&#x1F424;](https://sdyueqian-my.sharepoint.cn/personal/admin_sdyueqian_partner_onmschina_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadmin%5Fsdyueqian%5Fpartner%5Fonmschina%5Fcn%2FDocuments%2F%E6%AD%A3%E5%BC%8F%E7%89%88%2F1%2E20%2E51%2E01&ga=1)
 
-(选择 v8a去音乐包版本即可)
+(此线路需要登陆微软账户 登陆后选择v8a去音乐包版本即可)
+
+或者点击~~绫华~~龟龟免登陆下载[&#x1F422;](https://klpbbs.118pan.com/b1146767)
 
 # 帐号
 
