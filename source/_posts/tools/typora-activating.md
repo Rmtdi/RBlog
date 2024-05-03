@@ -1,5 +1,5 @@
 ---
-title: typora-activate
+title: 激活Typora
 categories:
   - 笔记
 tags:

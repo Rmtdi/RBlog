@@ -1,5 +1,5 @@
 ---
-title: cmake-for-qt
+title: Qt默认缺少的cmake配置
 categories:
   - 笔记
 tags:
