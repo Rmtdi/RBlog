@@ -10,7 +10,7 @@ date: 2023-05-12 21:38:05
 
 添加图片测试
 
-![test](images/favicon.png)
+![test](../../images/favicon.png)
 
 代码是`![test](images/favicon.png)`
 
